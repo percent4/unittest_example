@@ -1,4 +1,5 @@
 ![coverage badge](https://raw.githubusercontent.com/percent4/unittest_example/master/coverage.svg)
+
 本项目用于展示python中的unittest（单元测试）模块的使用以及coverage模块的使用。
 
 文本用途说明如下:
